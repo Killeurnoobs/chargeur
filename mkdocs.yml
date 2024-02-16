@@ -1,0 +1,6 @@
+site_name: Les Chargeurs
+
+nav:
+  - Presentation simple: index.md
+  - Presentation detaillier: detaillier.md
+  - Source d'alimentation: chargeurtype.md
