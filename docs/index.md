@@ -9,15 +9,7 @@ Les chargeurs sont des dispositifs électriques essentiels utilisés pour fourni
 
 **Adaptateur Secteur** : C'est la partie du chargeur qui se branche dans une prise électrique murale ou une autre source d'alimentation. Il fournit l'électricité nécessaire au fonctionnement du chargeur.
 
-**Transformateur** : Le transformateur est responsable de convertir la tension électrique de l'adaptateur secteur en une tension appropriée pour charger la batterie de l'appareil électronique. Il peut être intégré directement dans le chargeur ou être un composant distinct.
 
-**Redresseur** : Le redresseur est chargé de convertir le courant alternatif (AC) fourni par le transformateur en courant continu (DC), qui est nécessaire pour charger la batterie de l'appareil électronique.
-
-**Régulateur de Tension** : Ce composant contrôle la tension de sortie du chargeur pour s'assurer qu'elle reste constante et sécurisée, évitant ainsi les surcharges ou les dommages à la batterie de l'appareil.
-
-**Circuit de Protection** : Le circuit de protection est intégré dans de nombreux chargeurs pour prévenir les surchauffes, les surtensions, les courts-circuits et autres dangers électriques qui pourraient endommager l'appareil ou mettre en danger l'utilisateur.
-
-##*Types de Chargeurs :*
 
 ###*Chargeurs par méthode de charge  :*
 **Chargeurs filaires** : Ils nécessitent une connexion physique entre le chargeur et l'appareil électronique à recharger.
